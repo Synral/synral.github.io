@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Daniel Hong
+subtitle: Gameplay Programmer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Daniel Hong, and I am a gameplay programmer eager to learn new skills and program excitingly unique games.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Skills
+- Unity
+- Unreal
+- Blender
+- Photoshop
