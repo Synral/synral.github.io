@@ -10,7 +10,7 @@ subtitle: Past projects and experiences
 
 A project in collaboration with the Toronto Zoo as a member of Sedna Games, a group of students from Ontario Tech University. Features two complete levels (Wetlands and Arctic) and functions as a prototype proof of design developed over a year (09/2020 ~ 09/2021).
 
-Over the course of the project, I was in charge of the gameplay mechanics
+Over the course of the project, our group of seven collaborated over Discord and planned our timeline using Jira. We would undergo daily scrums to check for progress on our weekly tasks, and hold a larger meeting every week to assign new tasks and deal with merging on our repository hosted on Github (using Github Desktop).
 
 # [Primordial](https://promethaes.itch.io/primordial)
 [![Primordial](http://img.youtube.com/vi/iZOTqHBXW2M/0.jpg)](https://www.youtube.com/watch?v=iZOTqHBXW2M)
