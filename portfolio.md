@@ -29,7 +29,23 @@ The two artists split the work between themselves, with one doing general 2D ass
 
 The project manager, Hamraj, guided us through our project timeline as well as handled level design and creation, creating the models and textures of landscapes and any props necessary such as trees, plants, grass, water shaders, icebergs, etc. He also worked together with Carter to design the game and create the game design document in an easy to understand manner so that I could reference it for anything I needed to implement. Working together with the two, I placed the QTEs, combat encounters, cinematic shots, checkpoints, datapads, and tutorial prompts.
 
-In addition to some of the above, Carter handled the creation of all sound effects and soundtracks within the game and worked with Anthony to figure out how to use FMOD to implement sounds. I worked with Carter
+In addition to some of the above, Carter handled the creation of all sound effects and soundtracks within the game and worked with Anthony to figure out how to use FMOD to implement sounds. I worked with Carter to implement triggers within the checkpoints and enemy encounters to provide dynamic music for the player on their journey through the environments of Earth.
 
 # [Primordial](https://promethaes.itch.io/primordial)
-[![Primordial](http://img.youtube.com/vi/iZOTqHBXW2M/0.jpg)](https://www.youtube.com/watch?v=iZOTqHBXW2M)
+![Primordial](http://img.youtube.com/vi/iZOTqHBXW2M/0.jpg)
+
+>Primordial is a rogue-like, fast-paced, first-person, looter shooter inspired by Doom, Binding of Issac, and Warhammer 40k.
+
+>You play as a space looter looking for Sednium across an abandoned ship with your crew to restock your ship's supplies. Meanwhile, you must fend off enemies in the ship, all to continue your journey through the wreck.
+
+Primordial was a school project worked on by Sedna Games, a group of seven students from Ontario Tech University. This project was completed over the course of two semesters (09/2019 ~ 05/2020) in our second year using a custom engine built by our group based off OpenGL, a 3D graphics API.
+
+As a group we held meetings in person and over Discord once every week to assign tasks. The game design was a collaborative effort between the seven of us to create a game that we would enjoy playing.
+
+As one of two front end gameplay programmers, I handled player movement, shooting, collision, weapon swapping, loot pickups, teleporters/lifts, player death, the tutorial, some enemy AI, HUD implementation related to health/shield, pause menu, weapon/crosshair icons, ammo counter, main title screen, and class selection. Futhermore, I worked with Evyn to handle the automatic loading and unloading of level assets as the player progresses throughout the ship and the random generation of pre-created levels.
+
+Our two back end programmers dealt with creating the engine and setting up the pipeline and graphics so that the front end programmers could use it more easily, including PBR and shadows.
+
+Our artists worked on modelling levels that can be put together using our random generation consisting of an entry with multiple exits as well as enemy and gun models.
+
+In addition to being an artist, Carter recorded sound effects and created soundtracks for the game. Similarly, Hamraj worked as our project lead and organised us to work efficiently and broke down our timeline to complete tasks on time and meet deadlines related to our Game Development Workshop course.
