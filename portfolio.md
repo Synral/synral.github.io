@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: A place for me to display my past project experiences
+subtitle: Past projects and experiences
 ---
 # [Earth's Light](https://hamraj-rai.itch.io/earths-light)
 [![Earth's Light](https://img.itch.zone/aW1hZ2UvOTc0MTIzLzczMjM0NDEucG5n/347x500/yRgepC.png)](https://www.youtube.com/watch?v=ItPgzlPxPJc)
