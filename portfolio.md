@@ -4,7 +4,7 @@ title: Portfolio
 subtitle: Past projects and experiences
 ---
 # [Earth's Light](https://hamraj-rai.itch.io/earths-light)
-[![Earth's Light Title Screen](https://img.itch.zone/aW1hZ2UvOTc0MTIzLzczMjM0NDEucG5n/347x500/yRgepC.png)]
+![Earth's Light Title Screen](https://img.itch.zone/aW1hZ2UvOTc0MTIzLzczMjM0NDEucG5n/347x500/yRgepC.png)
 
 >Earth's Light is a cooperative action-adventure game following the story of four animals and their journey to save their ecosystems, protect their homes, and heal the planet. Fight off garbage monsters plaguing the wetlands, the invasive plants enrapturing the forest, water spirits flooding the plains, and the mechanical chipper robots destroying the arctic.
 
